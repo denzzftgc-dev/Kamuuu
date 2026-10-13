@@ -1,0 +1,6 @@
+{
+  "baseUrl": "http://jimysuk.duckdns.top:4308",
+  "ratBaseUrl": "http://jimysuk.duckdns.top:4308",
+  "ratSocketUrl": "http://jimysuk.duckdns.top:4308",
+  "wsRawUrl": "ws//jimysuk.duckdns.top:4308/ws-raw"
+}
